@@ -1,0 +1,20 @@
+:root {
+  --maxWidth: 1200px;
+  --gray--1: #333333;
+  --disabled-bg: #666666;
+  --disabled-text: #cccccc;
+  --enabled-bg: #006E3D;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  width: var(--maxWidth);
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}

@@ -1,0 +1,10 @@
+.title {
+  color: var(--gray--1);
+  font-size: 2.375rem;
+  text-align: center;
+}
+
+div#root {
+  margin-left: var(--maxWidth);
+  margin-right: var(--maxWidth);
+}
